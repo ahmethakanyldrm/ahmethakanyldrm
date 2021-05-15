@@ -10,6 +10,18 @@ I am a second year student at Fırat University Technology Faculty Software Engi
 - 🌱 I’m  learning Flutter and Node.Js
 
 
+
+
+
+
+
+**********************************************
+*✔ If there is no struggle, there is no progress*
+
+*🤞 I never let my school hinder my education*
+
+*💻 Don't repeat yourself*
+
 <h1 align="center"> **💻Ahmet Hakan Yıldırım**</h1>
 
 <a href="https://github.com/ahmethakanyldrm"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmethakanyldrm&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&icon_color=f1c40f&hide_border=true" /></a>
