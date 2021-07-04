@@ -33,7 +33,7 @@ I am a second year student at Fırat University Technology Faculty Software Engi
 
 [<img src="https://www.androidfreeware.net/img2/linkedin.jpg" width="50" height="50" />](https://www.linkedin.com/in/ahmet-hakan-yildirim-29686b1ab/) 
 [<img src="https://play-lh.googleusercontent.com/2sREY-8UpjmaLDCTztldQf6u2RGUtuyf6VT5iyX3z53JS4TdvfQlX-rNChXKgpBYMw=s180-rw" width="50" height="50" />](https://www.instagram.com/coder.ahmett)
-[<img src="https://media-exp1.licdn.com/dms/image/C4D0BAQEv0xgEe3MJ2w/company-logo_200_200/0/1602698792035?e=1625097600&v=beta&t=aF7WMSz0Di8dWnoQB2-OInrMcaofiIY3V6Ob3lb05as" width="50" height="50" />](https://medium.com/@ahakan.yildirim336)
+
 
 
 
