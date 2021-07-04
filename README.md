@@ -4,10 +4,10 @@
 <!--
 **ahmethakanyldrm/ahmethakanyldrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-I am a second year student at Fırat University Technology Faculty Software Engineering.I am currently working on mobile application development with Flutter. I would like to work on artificial intelligence with python in the future.
+I am a second year student at Fırat University Technology Faculty Software Engineering.I am currently working on  Machine Learning and Deep Learning.
 
-- 🔭 I’m currently working on Flutter
-- 🌱 I’m  learning Flutter and Node.Js
+- 🔭 I’m currently working on Machine Learning and Deep Learning
+- 🌱 I’m  learning Python, Machine Learning and Deep Learning
 
 
 
