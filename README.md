@@ -8,11 +8,21 @@ I am a second year student at Fırat University Technology Faculty Software Engi
 
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m  learning Flutter
+- 🎬 Technologies I want to learn for backend Node.Js and Java
+- ⚔  I am taking firm steps towards becoming a full stack flutter developer.
 - 📫 How to reach me: ahakan.yildirim336@gmail.com
 
 
 
+#### Teknologies 
 
+- Flutter 
+- Java 
+- Node.Js
+- C# 
+- FireBase 
+- MySql
+- MsSql
 
 **********************************************
 *✔ If there is no struggle, there is no progress*
