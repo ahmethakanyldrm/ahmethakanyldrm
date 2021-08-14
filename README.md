@@ -8,7 +8,7 @@ I am a second year student at Fırat University Technology Faculty Software Engi
 
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m  learning Flutter
-
+- 📫 How to reach me: ahakan.yildirim336@gmail.com
 
 
 
