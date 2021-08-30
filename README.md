@@ -11,7 +11,7 @@
 ***DON'T REPEAT YOURSELF(KENDİNİ TEKRAR ETME)***
 <br>
 
-***Bölümüm öğretmenlik olsada ideallerimden asla vazgeçemem.:medal_military:***
+*** ***
 
 <p align="center">  
  <img src= "https://gpvc.arturio.dev/ahmethakanyldrm" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> 
