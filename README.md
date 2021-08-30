@@ -62,7 +62,7 @@
 
 </p>
 
-<h2 align="center">👩‍💻 Kullandığım IDE Çeşitleri</h2>
+<h2 align="center">👩‍💻 Kullandığım IDE ve EDİTÖRLER</h2>
 
 <p align="center">
   
