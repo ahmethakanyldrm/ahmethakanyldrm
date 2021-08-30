@@ -11,7 +11,11 @@
 ***DON'T REPEAT YOURSELF(KENDİNİ TEKRAR ETME)***
 <br>
 
-*** ***
+***Odaklanmak, 1000 iyi fikre hayır diyebilmektir***
+<br>
+
+***Mücadele yoksa ilerleme de yoktur***
+<br>
 
 <p align="center">  
  <img src= "https://gpvc.arturio.dev/ahmethakanyldrm" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> 
