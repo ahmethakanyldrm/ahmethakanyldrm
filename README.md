@@ -3,8 +3,7 @@
 <br/>
 
 ### Ben Kimim
-- Fırat Üniversitesi Yazılım Mühendisliği 3.sınıf Öğrencisiyim 
-- Flutter Developer olmak için çabalıyorum. 
+- Fırat Üniversitesi Yazılım Mühendisliği 3.sınıf Öğrencisiyim  
 - Kendimi her alanda geliştirmeye çalışıyorum. 
 - 📫 Bana ulaşmak isterseniz **ahakan.yildirim336@gmail.com** adresini kullanabilirsiniz. 
 
