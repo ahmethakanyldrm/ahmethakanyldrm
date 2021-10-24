@@ -5,6 +5,7 @@
 ### Ben Kimim
 - Fırat Üniversitesi Yazılım Mühendisliği 3.sınıf Öğrencisiyim  
 - Kendimi her alanda geliştirmeye çalışıyorum. 
+- Öğrenmenin sınırı yoktur.
 - 📫 Bana ulaşmak isterseniz **ahakan.yildirim336@gmail.com** adresini kullanabilirsiniz. 
 
 ***DON'T REPEAT YOURSELF(KENDİNİ TEKRAR ETME)***
@@ -47,6 +48,10 @@
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png"></code>
 <code><img height="40" width="40" src="https://static.cdnlogo.com/logos/f/30/flutter.svg"></code>
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/600px-Kotlin_Icon.png"></code>
+ <code><img src="https://img.icons8.com/color/48/000000/python--v1.png"/></code>
+ <code><img src="https://img.icons8.com/color/48/000000/c-programming.png"/></code>
+  <code><img src="https://img.icons8.com/color/48/000000/arduino.png"/></code>
+ 
 
 </p>
 
@@ -57,6 +62,7 @@
 <code><img height="40" width="40" src="http://pngimg.com/uploads/mysql/mysql_PNG35.png"></code>
 <code><img height="40" width="40" src="https://img.icons8.com/color/480/microsoft-sql-server.png"></code>
  <code><img height="40" width="40" src="https://brandslogos.com/wp-content/uploads/images/firebase-logo.png"></code>
+  <code> <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/></code>
 
 
 </p>
@@ -67,6 +73,9 @@
   
 <code><img height="40" width="40" src="https://img.icons8.com/fluency/48/000000/android-studio--v2.png"></code>
 <code><img height="40" width="40" src="https://img.utdstc.com/icon/ebd/c75/ebdc759e8c0dd0f603ea13620f6f2ff5221bc73ac9a823e9356ca7e09b90488a:200"></code>
+ <code><img src="https://img.icons8.com/fluency/48/000000/visual-studio-2019.png"/></code>
+ <code><img src="https://img.icons8.com/fluency/48/000000/spyder-ide.png"/></code>
+ 
 </p>
 
 
