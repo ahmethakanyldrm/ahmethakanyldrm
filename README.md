@@ -21,8 +21,8 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 - 🌱 I’m trying to improve myself in everything.
 - ⚡ Learning has no limits
 - ❤️  ***DON'T REPEAT YOURSELF (KENDİNİ TEKRAR ETME)***
-- 💪 Mücadele Yoksa İlerleme de Yoktur
-- 😉 Odaklanmak Bin İyi Fikre Hayır Diyebilmektir
+- 💪 ***Mücadele Yoksa İlerleme de Yoktur***
+- 😉 ***Odaklanmak 1000 İyi Fikre Hayır Diyebilmektir***
 - 👌 I regularly write articles on https://coderahmet.com/
 
 <h3 align="left">Connect with me:</h3>
