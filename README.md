@@ -43,7 +43,7 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ### 🔥 &nbsp; My Stats :
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmethakanyldrm&show_icons=true&locale=en&layout=compact" alt="ahmethakanyldrm" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmethakanyldrm&show_icons=true&locale=en" alt="ahmethakanyldrm" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmethakanyldrm&show_icons=true&locale=en" alt="ahmethakanyldrm" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmethakanyldrm&" alt="ahmethakanyldrm" /></p>
 
