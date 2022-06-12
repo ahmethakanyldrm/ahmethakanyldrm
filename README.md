@@ -29,8 +29,6 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 <p align="left">
 <a href="https://linkedin.com/in/ahmet-hakan-yildirim-29686b1ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmet-hakan-yildirim-29686b1ab" height="30" width="40" /></a>
    
- <a href="https://linkedin.com/in/ahmet-hakan-yildirim-29686b1ab" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/mail-alt.svg" alt="ahmet-hakan-yildirim-29686b1ab" height="30" width="40" /></a>
 </p>
 
 ---
@@ -61,7 +59,7 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmethakanyldrm&show_icons=true&locale=en&layout=compact" alt="ahmethakanyldrm" /></p>
 <p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=ahmethakanyldrm" alt="ahmethakanyldrm" width="800" height="400" /></p>
 
-<p><img align="center" src="https://metrics.lecoq.io/ahmethakanyldrm" alt="ahmethakanyldrm" width="500" height="200" /></p>
+
 
 <h1> <h1/>
 
