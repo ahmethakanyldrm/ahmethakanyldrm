@@ -18,12 +18,14 @@
 I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
 
 - 🔭 I’m  a Software Engineering at Firat University 
+- 👨🏼‍💻 ***I'm learning Swift because I wanna be iOS Developer***
+- 💻 ***I'm learning swiftUI and UIKit*** 
 - 🌱 I’m trying to improve myself in everything.
-- ⚡ Learning has no limits
+- ⚡  Learning has no limits
 - ❤️  ***DON'T REPEAT YOURSELF (KENDİNİ TEKRAR ETME)***
 - 💪 ***Mücadele Yoksa İlerleme de Yoktur***
 - 😉 ***Odaklanmak 1000 İyi Fikre Hayır Diyebilmektir***
-- 👌 I regularly write articles on https://coderahmet.com/
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
