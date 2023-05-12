@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="center">I am a Software Engineer  from Turkey.<br><br>🔭 I’m a Software Engineering at Firat University<br><br>👨🏼‍💻 I'm learning Swift because I wanna be iOS Developer<br><br>💻 I'm learning swiftUI and UIKit<br><br>🌱 I’m trying to improve myself in everything.<br><br>⚡ Learning has no limits<br><br>❤️ DON'T REPEAT YOURSELF (KENDİNİ TEKRAR ETME)<br><br>💪 Mücadele Yoksa İlerleme de Yoktur<br><br>😉 Odaklanmak 1000 İyi Fikre Hayır Diyebilmektir</h3>
+<h3 align="center">I am a Software Engineer and iOS Developer.<br><br>👨🏼‍💻 I'm learning Swift ❤️<br><br>💻 I'm learning UIKit<br><br>🌱 I’m trying to improve myself in everything.<br><br>⚡ Learning has no limits<br><br>❤️ DON'T REPEAT YOURSELF (KENDİNİ TEKRAR ETME)<br><br>💪 Mücadele Yoksa İlerleme de Yoktur<br><br>😉 Odaklanmak 1000 İyi Fikre Hayır Diyebilmektir</h3>
 
 ###
 
