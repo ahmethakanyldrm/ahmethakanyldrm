@@ -59,16 +59,7 @@
 
 ###
 
-<br clear="both">
+## Snake eating my contribution graph
+![snake gif](https://github.com/ahmethakanyldrm/ahmethakanyldrm/blob/output/github-contribution-grid-snake.gif)
 
-<img src="https://raw.githubusercontent.com/ahmethakanyldrm/ahmethakanyldrm/output/snake.svg" alt="Snake animation" />
 
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=@ahakan.yildirim336&theme=radical" alt="Layout with last medium posts"  />
-</div>
-
-###
