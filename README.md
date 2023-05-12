@@ -1,80 +1,74 @@
+<div align="center">
+  <img height="400" src="https://octodex.github.com/images/daftpunktocat-thomas.gif"  />
+</div>
 
-<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
-<p align="center">
-<a href="https://www.linkedin.com/in/ahmet-hakan-yildirim-29686b1ab/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-</p>
+###
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=ahmethakanyldrm&style=flat-square&color=blue" alt=""></p>
+<h3 align="center">I am a Software Engineer  from Turkey.<br><br>🔭 I’m a Software Engineering at Firat University<br><br>👨🏼‍💻 I'm learning Swift because I wanna be iOS Developer<br><br>💻 I'm learning swiftUI and UIKit<br><br>🌱 I’m trying to improve myself in everything.<br><br>⚡ Learning has no limits<br><br>❤️ DON'T REPEAT YOURSELF (KENDİNİ TEKRAR ETME)<br><br>💪 Mücadele Yoksa İlerleme de Yoktur<br><br>😉 Odaklanmak 1000 İyi Fikre Hayır Diyebilmektir</h3>
 
-<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"></h1>
+###
 
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/ahmethakanyldrm/count.svg?"  />
+</div>
 
-<h1> <h1/>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmethakanyldrm" alt="ahmethakanyldrm" /></a> </p>
+###
 
-### 👨‍💻 &nbsp;About Me :
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmethakanyldrm&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=ahmethakanyldrm&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmethakanyldrm&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
+###
 
-- 🔭 I’m  a Software Engineering at Firat University 
-- 👨🏼‍💻 ***I'm learning Swift because I wanna be iOS Developer***
-- 💻 ***I'm learning swiftUI and UIKit*** 
-- 🌱 I’m trying to improve myself in everything.
-- ⚡  Learning has no limits
-- ❤️  ***DON'T REPEAT YOURSELF (KENDİNİ TEKRAR ETME)***
-- 💪 ***Mücadele Yoksa İlerleme de Yoktur***
-- 😉 ***Odaklanmak 1000 İyi Fikre Hayır Diyebilmektir***
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="30" width="42" alt="apple logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="30" width="42" alt="swift logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" width="42" alt="spring logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="42" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="30" width="42" alt="graphql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" width="42" alt="tensorflow logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" width="42" alt="firebase logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" width="42" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" width="42" alt="microsoftsqlserver logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="30" width="42" alt="twitter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" width="42" alt="slack logo"  />
+</div>
 
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-   📫 <a href="ahakan.yildirim336@gmail.com">Mail</a> </p>
-   
-<a href="https://linkedin.com/in/ahmet-hakan-yildirim-29686b1ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmet-hakan-yildirim-29686b1ab" height="30" width="40" /></a>
-   
-</p>
+<div align="center">
+  <a href="https://www.instagram.com/hkn23yldrm/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="27" alt="instagram logo"  />
+  </a>
+  <a href="ahakan.yildirim336@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="27" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/ahmet-hakan-yildirim-29686b1ab/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="27" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/hknYldrmAhmet" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="27" alt="twitter logo"  />
+  </a>
+</div>
 
----
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
- <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
- <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
- <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
- <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-   <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
-   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<br clear="both">
 
----
+<img src="https://raw.githubusercontent.com/ahmethakanyldrm/ahmethakanyldrm/output/snake.svg" alt="Snake animation" />
 
-### 🔥 &nbsp; My Stats :
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmethakanyldrm&show_icons=true&locale=en&layout=compact" alt="ahmethakanyldrm" /></p>
-<h1> <h1/>
+###
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmethakanyldrm&show_icons=true&locale=en" alt="ahmethakanyldrm" /></p>
-<h1> <h1/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmethakanyldrm&" alt="ahmethakanyldrm" /></p>
+<br clear="both">
 
----
- 
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=@ahakan.yildirim336&theme=radical" alt="Layout with last medium posts"  />
+</div>
 
-
-
-   
-
-
-
-
-
-
-
-
-
-
+###
