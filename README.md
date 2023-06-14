@@ -23,7 +23,7 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="30" width="42" alt="apple logo"  />
+ 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="30" width="42" alt="swift logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" width="42" alt="spring logo"  />
@@ -43,11 +43,13 @@
 ###
 
 <div align="center">
+  
   <a href="https://www.instagram.com/hkn23yldrm/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="27" alt="instagram logo"  />
   </a>
-  <a href="ahakan.yildirim336@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="27" alt="gmail logo"  />
+  
+ <a href="mailto:ahakan.yildirim336@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/ahmet-hakan-yildirim-29686b1ab/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="27" alt="linkedin logo"  />
@@ -55,12 +57,12 @@
   <a href="https://twitter.com/hknYldrmAhmet" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="27" alt="twitter logo"  />
   </a>
-  <a href="https://stackoverflow.com/users/12815383" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="27" /></a>
+ <a href="https://stackoverflow.com/users/12815383/ahmet-hakan-yildirim" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="stackoverflow logo"  />
+  </a>
 </div>
 
 ###
 
 ## Snake eating my contribution graph
 ![snake gif](https://github.com/ahmethakanyldrm/ahmethakanyldrm/blob/output/github-contribution-grid-snake.gif)
-
-
