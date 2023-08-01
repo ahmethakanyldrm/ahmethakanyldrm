@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="center">I am a Software Engineer and iOS Developer.<br><br>👨🏼‍💻 I'm learning Swift ❤️<br><br>💻 I'm learning UIKit<br><br>🌱 I’m trying to improve myself in everything.<br><br>⚡ Learning has no limits<br><br>❤️ DON'T REPEAT YOURSELF (KENDİNİ TEKRAR ETME)<br><br>💪 Mücadele Yoksa İlerleme de Yoktur<br><br>😉 Odaklanmak 1000 İyi Fikre Hayır Diyebilmektir</h3>
+<h3 align="center">I am a Software Engineer<br><br>👨🏼‍💻 I'm writing Swift and Java ❤️<br><br>💻 I'm learning UIKit and Spring Boot<br><br>🌱 I’m trying to improve myself in everything.<br><br>⚡ Learning has no limits<br><br>❤️ DON'T REPEAT YOURSELF<br><br>💪 Mücadele Yoksa İlerleme de Yoktur
 
 ###
 
@@ -28,7 +28,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" width="42" alt="spring logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="42" alt="github logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="30" width="42" alt="graphql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" width="42" alt="firebase logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" width="42" alt="postgresql logo"  />
