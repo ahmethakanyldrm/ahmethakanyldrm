@@ -58,5 +58,4 @@
 
 ###
 
-## Snake eating my contribution graph
-![snake gif](https://github.com/ahmethakanyldrm/ahmethakanyldrm/blob/output/github-contribution-grid-snake.gif)
+
