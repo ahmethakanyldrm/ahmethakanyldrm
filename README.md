@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="center">I am a Software Engineer<br><br>👨🏼‍💻 I'm writing Swift, Angular, Asp.Net Core ❤️<br><br>🌱 I’m trying to improve myself in everything.<br><br>⚡ Learning has no limits<br><br>❤️ DON'T REPEAT YOURSELF<br><br>💪 Mücadele Yoksa İlerleme de Yoktur
+<h3 align="center">I am a Software Engineer<br><br>👨🏼‍💻 I'm writing Swift (UIKit and SwiftUI)❤️<br><br>🌱 I’m trying to improve myself in everything.<br><br>⚡ Learning has no limits<br><br>❤️ DON'T REPEAT YOURSELF<br><br>💪 Mücadele Yoksa İlerleme de Yoktur
 
 <br>
 <br>
@@ -37,41 +37,23 @@
 <br>
 <div align="left">
  
-<p align="left">
+<p align="center">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/swift-original.svg" alt="Swift" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/csharp-original.svg" alt="Csharp" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Framework/dot-net-original-wordmark.svg" alt="Dot Net" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/typescript-original.svg" alt="Typescript" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/angular.svg" alt="Angular" width="50" height="50"/>
-
-
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/rabbitmq-icon.svg" alt="rabbitMq" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/elastic-icon.svg" alt="ElasticSearch" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/microsoft-sql-server-logo.svg" alt="Microsoft Sql Server" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mongodb-original-wordmark.svg" alt="Mongodb" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/postgresql-original-wordmark.svg" alt="Postgresql" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/BackendService/firebase-icon.svg" alt="Firebase" width="50" height="50"/>
-
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/microsoft_azure-icon.svg" alt="Microsoft Azure" width="50" height="50"/>
-
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="50" height="50"/>
 </p>
 
 </div>
 
 ###
+<br>
+
+<h3 align="center">Contact Me</h3>
+
 
 <div align="center">
-  
-  <a href="https://www.instagram.com/hkn23yldrm/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="27" alt="instagram logo"  />
-  </a>
   
  <a href="mailto:ahakan.yildirim336@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="gmail logo"  />
