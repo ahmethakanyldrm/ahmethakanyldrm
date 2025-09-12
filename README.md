@@ -1,77 +1,97 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-
-<div align="center">
-  <img height="400" src="https://octodex.github.com/images/daftpunktocat-thomas.gif"  />
-</div>
+<h1 align="center">Hey 👋 What's up?</h1>
 
 ###
 
-<h3 align="center">I am a Software Engineer<br><br>👨🏼‍💻 I'm writing Swift (UIKit and SwiftUI)❤️<br><br>🌱 I’m trying to improve myself in everything.<br><br>⚡ Learning has no limits<br><br>❤️ DON'T REPEAT YOURSELF<br><br>💪 Mücadele Yoksa İlerleme de Yoktur
-
-<br>
-<br>
-<h3 align="center">Stars</h3>
-
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmethakanyldrm&layout=compact&theme=blueberry" alt=ahmethakanyldrm />
-
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmethakanyldrm&show_icons=true&locale=en&theme=blueberry" alt="ahmethakanyldrm" /></p>
-
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmethakanyldrm&theme=blueberry" alt="ahmethakanyldrm" /></p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div align="center">
-<a href="https://github.com/ahmethakanyldrm">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmethakanyldrm&theme=blueberry" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahmethakanyldrm&theme=blueberry" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmethakanyldrm&theme=blueberry" height="180em" />
-
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmethakanyldrm&theme=blueberry" height="180em" />
-</div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="center">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ahmethakanyldrm&theme=xcode"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmethakanyldrm/ahmethakanyldrm/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmethakanyldrm/ahmethakanyldrm/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ahmethakanyldrm/ahmethakanyldrm/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
-<br>
-<h3 align="center">Languages and Technologies</h3>
-<br>
+<h3 align="center">I am a Frontend Engineer (React)</h3>
+
+###
+
+<h2 align="center">About me</h2>
+
+###
+
+<h4 align="center">👨🏼‍💻 React • TypeScript • Next.js • Redux Toolkit • MUI/Tailwind<br>🌱 Her gün yeni bir şey öğreniyorum<br>⚡ Clean Code • SOLID • Performans & Erişilebilirlik (a11y)<br>❤️ DON'T REPEAT YOURSELF (DRY)<br>💪 Mücadele yoksa ilerleme de yoktur</h4>
+
+###
+
+<h2 align="left">Tech Stacks</h2>
+
+###
+
 <div align="left">
- 
-<p align="center">
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/swift-original.svg" alt="Swift" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mongodb-original-wordmark.svg" alt="Mongodb" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/postgresql-original-wordmark.svg" alt="Postgresql" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/BackendService/firebase-icon.svg" alt="Firebase" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="50" height="50"/>
-</p>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/swift/F05138" height="40" alt="swift logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
 </div>
 
 ###
-<br>
-
-<h3 align="center">Contact Me</h3>
-
 
 <div align="center">
-  
- <a href="mailto:ahakan.yildirim336@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="gmail logo"  />
-  </a>
   <a href="https://www.linkedin.com/in/ahmethakanyildirim/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="27" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://twitter.com/hknYldrmAhmet" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="27" alt="twitter logo"  />
+  <a href="https://x.com/hknyldrmahmet" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
- <a href="https://stackoverflow.com/users/12815383/ahmet-hakan-yildirim" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="stackoverflow logo"  />
+  <a href="https://www.instagram.com/ahmethy23/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
 
 ###
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/ahakan23yldrm"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ahakan23yldrm" /></a></p><br><br>
+<div align="center">
+  <img height="200" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"  />
+</div>
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+###
+
+<div align="center" style="width: 100%">
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ahakan.yildirim/0">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@ahakan.yildirim/0" alt="Medium post 1"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ahakan.yildirim/1">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@ahakan.yildirim/1" alt="Medium post 2"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ahakan.yildirim/2">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@ahakan.yildirim/2" alt="Medium post 3"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmethakanyldrm&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmethakanyldrm&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=ahmethakanyldrm&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=ahmethakanyldrm&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmethakanyldrm&radius=16&theme=react&area=true&order=5&hide_border=false&hide_title=false" height="398" alt="activity-graph graph"  />
+</div>
+
+###
