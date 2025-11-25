@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="center">I am a Frontend Engineer (React)</h3>
+<h3 align="center">I am a AI Engineer (Machine Learning - Deep Learning - Data Science)</h3>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<h4 align="center">👨🏼‍💻 React • TypeScript • Next.js • Redux Toolkit • MUI/Tailwind<br>🌱 Her gün yeni bir şey öğreniyorum<br>⚡ Clean Code • SOLID • Performans & Erişilebilirlik (a11y)<br>❤️ DON'T REPEAT YOURSELF (DRY)<br>💪 Mücadele yoksa ilerleme de yoktur</h4>
+<h4 align="center">👨🏼‍💻 Python • ML • DL • LLMs • <br>🌱 Her gün yeni bir şey öğreniyorum<br>⚡Yapay Zekaya Dair Her şey<br>❤️ DON'T REPEAT YOURSELF (DRY)<br>💪 Mücadele yoksa ilerleme de yoktur</h4>
 
 ###
 
@@ -27,6 +27,14 @@
 ###
 
 <div align="left">
+
+ <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" height="40"/> 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"  height="40"/> 
+ <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch"  height="40"/> 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn"  height="40"/> 
+ <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" height="40"/> 
+ <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow"  height="40"/> 
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
